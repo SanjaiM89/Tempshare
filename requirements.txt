@@ -1,0 +1,7 @@
+aiohttp==3.8.5
+nest-asyncio==1.5.6
+python-telegram-bot==20.5
+requests==2.31.0
+psutil==5.9.6
+sqlite3  # Usually built-in, no need to install separately unless customized
+python-libtorrent==1.2.9  # Ensure compatibility; install via pip if available
