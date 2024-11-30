@@ -17,7 +17,7 @@ import nest_asyncio
 # Apply nested asyncio compatibility
 nest_asyncio.apply()
 
-API_TOKEN = "YOUR_BOT_API_TOKEN"  # Replace with your bot's API token
+API_TOKEN = "6816699414:AAGkNhn0oaK1NK9GuKod7gHesX8zV12M760"  # Replace with your bot's API token
 UPLOAD_URL = "https://temp.sh/upload"  # Replace with your desired upload URL
 
 # Active tasks map for managing cancel events
